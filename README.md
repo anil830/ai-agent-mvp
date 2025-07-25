@@ -35,7 +35,7 @@ History Service    | 8004  | Maintains conversation history
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/ai-agent-mvp.git
+git clone https://github.com/anil830/ai-agent-mvp.git
 cd ai-agent-mvp
 
 2. Set Up Python Environment (Optional but Recommended)
