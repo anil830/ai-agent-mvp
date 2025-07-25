@@ -163,6 +163,25 @@ Python, PHP, MERN Stack, AI/ML Enthusiast
 
 🌐 Project Demo 
 
+1.  Chat           | http://127.0.0.1:8001/docs
+
+   <img width="1863" height="732" alt="Screenshot 2025-07-25 231618" src="https://github.com/user-attachments/assets/a1dba5fa-54fb-46cd-9c2f-0cc64d72a8f6" />
+
+2.  Search         | http://127.0.0.1:8003/docs
+
+   <img width="1607" height="584" alt="image" src="https://github.com/user-attachments/assets/ba0e75b9-357f-498a-a4f9-03ed0b2cd733" />
+
+3.  History        | http://127.0.0.1:8004/docs
+
+   <img width="1483" height="585" alt="image" src="https://github.com/user-attachments/assets/de63139d-68e0-4147-8638-e6405057c9b6" />
+
+
+   
+
+
+   
+
+
 
 
 
